@@ -1,0 +1,11 @@
+gene_type,class_index
+BIOLOGICAL_REGION,0
+OTHER,1
+PROTEIN_CODING,2
+PSEUDO,3
+ncRNA,4
+rRNA,5
+scRNA,6
+snRNA,7
+snoRNA,8
+tRNA,9
